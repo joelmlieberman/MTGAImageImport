@@ -1,0 +1,1 @@
+MTGAImageImport is a Python utility that uses OCR in order to translate images of MTGArena cards into importable decklists in the game. The tool connects to Scryfall's database to search for the cards in the image to create the decklist.
